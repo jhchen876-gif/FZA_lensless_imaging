@@ -4,6 +4,7 @@ addpath('./functions');
 
 %% Pingole imaging
 % img = im2double(imread('THU.png'));
+% img = im2double(imread('./images/physics.png'));
 img = im2double(imread('cameraman.tif'));
 
 di = 3;         % the distance from mask to sensor
