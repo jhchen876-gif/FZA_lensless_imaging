@@ -15,3 +15,4 @@ FZA_single_shot_experiment.m	- reconstruct from experimental image
 
 Contact: clc@tsinghua.edu.cn
 
+Design Code for Binary Amplitude Spiral Fresnel Zone Plate.docx - Optimization Code Note: Only the design code for the single-focus spiral Fresnel zone plate shall be used; the dual-focus part shall be ignored. The physical object of the zone plate is implemented using an SVG file.
