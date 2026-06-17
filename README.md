@@ -17,6 +17,8 @@ Contact: clc@tsinghua.edu.cn
 
 Description of the files used in updating the code from ordinary Fresnel zone plate coded imaging to single-focus spiral Fresnel zone plate coded imaging:
 
+Single-shot lensless imaging with fresnel zone.pdf - Supporting paper for the original code
+
 Design Code for Binary Amplitude Spiral Fresnel Zone Plate.docx - Optimization Code Note: Only the design code for the single-focus spiral Fresnel zone plate shall be used; the dual-focus part shall be ignored. The physical object of the zone plate is implemented using an SVG file.
 
 Implementation Scheme of Single-Frame Coded Imaging for Single-Focus Spiral Fresnel Zone Plate Near Sensor.docx - Includes partial code design and optimization schemes; only code‑related and principle‑related content shall be used in the code optimization process.
